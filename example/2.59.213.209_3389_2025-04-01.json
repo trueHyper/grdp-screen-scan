@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "CLIENTBANK-1"
+    ],
+    "product_version": [
+      "6.3.9600"
+    ],
+    "system_time": [
+      "2025-03-31T22:13:25Z"
+    ],
+    "target_name": [
+      "CLIENTBANK-1"
+    ],
+    "netbios_domain_name": [
+      "CLIENTBANK-1"
+    ],
+    "dns_computer_name": [
+      "clientbank-1"
+    ],
+    "dns_domain_name": [
+      "clientbank-1"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743459361.png"
+    ]
+  },
+  "ip_port": "2.59.213.209:3389"
+}

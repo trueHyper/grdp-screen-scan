@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "BTC"
+    ],
+    "product_version": [
+      "10.0.14393"
+    ],
+    "system_time": [
+      "2025-03-31T22:00:37Z"
+    ],
+    "target_name": [
+      "BTC"
+    ],
+    "netbios_domain_name": [
+      "BTC"
+    ],
+    "dns_computer_name": [
+      "btc"
+    ],
+    "dns_domain_name": [
+      "btc"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743458592.png"
+    ]
+  },
+  "ip_port": "81.17.29.231:3389"
+}

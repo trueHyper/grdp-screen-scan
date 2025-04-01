@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "WIN11-01"
+    ],
+    "product_version": [
+      "10.0.22621"
+    ],
+    "system_time": [
+      "2025-03-31T21:58:53Z"
+    ],
+    "target_name": [
+      "VIDESANET"
+    ],
+    "netbios_domain_name": [
+      "VIDESANET"
+    ],
+    "dns_computer_name": [
+      "Win11-01.videsanet.ch"
+    ],
+    "dns_domain_name": [
+      "videsanet.ch"
+    ],
+    "dns_tree_name": [
+      "videsanet.ch"
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "185.54.4.79:3389"
+}

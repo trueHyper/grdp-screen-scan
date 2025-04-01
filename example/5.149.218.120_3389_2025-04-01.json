@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "GIGABYTE"
+    ],
+    "product_version": [
+      "10.0.22621"
+    ],
+    "system_time": [
+      "2025-03-31T22:06:58Z"
+    ],
+    "target_name": [
+      "GIGABYTE"
+    ],
+    "netbios_domain_name": [
+      "GIGABYTE"
+    ],
+    "dns_computer_name": [
+      "Gigabyte"
+    ],
+    "dns_domain_name": [
+      "Gigabyte"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "5.149.218.120:3389"
+}

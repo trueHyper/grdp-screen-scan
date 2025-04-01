@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "WIN-P61ULVRMSD8"
+    ],
+    "product_version": [
+      "10.0.14393"
+    ],
+    "system_time": [
+      "2025-03-31T22:14:44Z"
+    ],
+    "target_name": [
+      "WIN-P61ULVRMSD8"
+    ],
+    "netbios_domain_name": [
+      "WIN-P61ULVRMSD8"
+    ],
+    "dns_computer_name": [
+      "WIN-P61ULVRMSD8"
+    ],
+    "dns_domain_name": [
+      "WIN-P61ULVRMSD8"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743459440.png"
+    ]
+  },
+  "ip_port": "5.188.53.40:3389"
+}

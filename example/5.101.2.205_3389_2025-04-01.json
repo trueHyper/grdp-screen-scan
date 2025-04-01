@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "DESKTOP-JAETECR"
+    ],
+    "product_version": [
+      "10.0.19041"
+    ],
+    "system_time": [
+      "2025-03-31T22:12:27Z"
+    ],
+    "target_name": [
+      "DESKTOP-JAETECR"
+    ],
+    "netbios_domain_name": [
+      "DESKTOP-JAETECR"
+    ],
+    "dns_computer_name": [
+      "DESKTOP-JAETECR"
+    ],
+    "dns_domain_name": [
+      "DESKTOP-JAETECR"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "5.101.2.205:3389"
+}

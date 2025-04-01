@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "DED-108-180"
+    ],
+    "product_version": [
+      "10.0.19041"
+    ],
+    "system_time": [
+      "2025-03-31T22:13:53Z"
+    ],
+    "target_name": [
+      "DED-108-180"
+    ],
+    "netbios_domain_name": [
+      "DED-108-180"
+    ],
+    "dns_computer_name": [
+      "Ded-108-180"
+    ],
+    "dns_domain_name": [
+      "Ded-108-180"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "2.56.108.180:3389"
+}

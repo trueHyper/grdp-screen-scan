@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "JMELLOW"
+    ],
+    "product_version": [
+      "10.0.20348"
+    ],
+    "system_time": [
+      "2025-03-31T21:50:24Z"
+    ],
+    "target_name": [
+      "JMELLOW"
+    ],
+    "netbios_domain_name": [
+      "JMELLOW"
+    ],
+    "dns_computer_name": [
+      "jmellow"
+    ],
+    "dns_domain_name": [
+      "jmellow"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "185.55.243.247:3389"
+}

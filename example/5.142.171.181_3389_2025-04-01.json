@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "ACC2"
+    ],
+    "product_version": [
+      "10.0.19041"
+    ],
+    "system_time": [
+      "2025-03-31T22:08:13Z"
+    ],
+    "target_name": [
+      "ACC2"
+    ],
+    "netbios_domain_name": [
+      "ACC2"
+    ],
+    "dns_computer_name": [
+      "ACC2"
+    ],
+    "dns_domain_name": [
+      "ACC2"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743459047.png"
+    ]
+  },
+  "ip_port": "5.142.171.181:3389"
+}

@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "WIN-A970OMKDSF1"
+    ],
+    "product_version": [
+      "6.3.9600"
+    ],
+    "system_time": [
+      "2025-03-31T22:25:34Z"
+    ],
+    "target_name": [
+      "WIN-A970OMKDSF1"
+    ],
+    "netbios_domain_name": [
+      "WIN-A970OMKDSF1"
+    ],
+    "dns_computer_name": [
+      "WIN-A970OMKDSF1"
+    ],
+    "dns_domain_name": [
+      "WIN-A970OMKDSF1"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743460089.png"
+    ]
+  },
+  "ip_port": "5.188.82.106:3389"
+}

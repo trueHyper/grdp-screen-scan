@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "SERVERMR"
+    ],
+    "product_version": [
+      "6.1.7601"
+    ],
+    "system_time": [
+      "2025-03-31T22:09:20Z"
+    ],
+    "target_name": [
+      "SERVERMR"
+    ],
+    "netbios_domain_name": [
+      "SERVERMR"
+    ],
+    "dns_computer_name": [
+      "ServerMR"
+    ],
+    "dns_domain_name": [
+      "ServerMR"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "5.128.99.32:3389"
+}

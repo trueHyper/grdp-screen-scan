@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "OPROOT"
+    ],
+    "product_version": [
+      "10.0.19041"
+    ],
+    "system_time": [
+      "2025-03-31T22:07:42Z"
+    ],
+    "target_name": [
+      "OPROOT"
+    ],
+    "netbios_domain_name": [
+      "OPROOT"
+    ],
+    "dns_computer_name": [
+      "OPROOT"
+    ],
+    "dns_domain_name": [
+      "OPROOT"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743459019.png"
+    ]
+  },
+  "ip_port": "5.143.20.121:3389"
+}

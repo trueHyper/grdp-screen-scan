@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "DOUBERMAN"
+    ],
+    "product_version": [
+      "10.0.20348"
+    ],
+    "system_time": [
+      "2025-03-31T21:55:31Z"
+    ],
+    "target_name": [
+      "DOUBERMAN"
+    ],
+    "netbios_domain_name": [
+      "DOUBERMAN"
+    ],
+    "dns_computer_name": [
+      "douberman"
+    ],
+    "dns_domain_name": [
+      "douberman"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743458285.png"
+    ]
+  },
+  "ip_port": "185.55.240.75:3389"
+}

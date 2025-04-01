@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "WIN-5F3Q7KITJOE"
+    ],
+    "product_version": [
+      "10.0.17763"
+    ],
+    "system_time": [
+      "2025-03-31T22:01:25Z"
+    ],
+    "target_name": [
+      "WIN-5F3Q7KITJOE"
+    ],
+    "netbios_domain_name": [
+      "WIN-5F3Q7KITJOE"
+    ],
+    "dns_computer_name": [
+      "WIN-5F3Q7KITJOE"
+    ],
+    "dns_domain_name": [
+      "WIN-5F3Q7KITJOE"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743458640.png"
+    ]
+  },
+  "ip_port": "81.17.24.58:3389"
+}

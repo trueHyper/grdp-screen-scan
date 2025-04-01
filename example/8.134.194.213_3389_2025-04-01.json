@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "iZyctxrzkiey8hZ"
+    ],
+    "product_version": [
+      "10.0.17763"
+    ],
+    "system_time": [
+      "2025-03-31T22:04:21Z"
+    ],
+    "target_name": [
+      "iZyctxrzkiey8hZ"
+    ],
+    "netbios_domain_name": [
+      "iZyctxrzkiey8hZ"
+    ],
+    "dns_computer_name": [
+      "iZyctxrzkiey8hZ"
+    ],
+    "dns_domain_name": [
+      "iZyctxrzkiey8hZ"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "8.134.194.213:3389"
+}

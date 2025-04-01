@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "IKP"
+    ],
+    "product_version": [
+      "10.0.20348"
+    ],
+    "system_time": [
+      "2025-03-31T21:51:12Z"
+    ],
+    "target_name": [
+      "IKP"
+    ],
+    "netbios_domain_name": [
+      "IKP"
+    ],
+    "dns_computer_name": [
+      "ikp"
+    ],
+    "dns_domain_name": [
+      "ikp"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743458027.png"
+    ]
+  },
+  "ip_port": "185.55.243.249:3389"
+}

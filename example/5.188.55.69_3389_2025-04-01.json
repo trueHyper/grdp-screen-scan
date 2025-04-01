@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "WIN-5COKID3ABIL"
+    ],
+    "product_version": [
+      "10.0.17763"
+    ],
+    "system_time": [
+      "2025-04-01T01:22:51Z"
+    ],
+    "target_name": [
+      "WIN-5COKID3ABIL"
+    ],
+    "netbios_domain_name": [
+      "WIN-5COKID3ABIL"
+    ],
+    "dns_computer_name": [
+      "WIN-5COKID3ABIL"
+    ],
+    "dns_domain_name": [
+      "WIN-5COKID3ABIL"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      ""
+    ]
+  },
+  "ip_port": "5.188.55.69:3389"
+}

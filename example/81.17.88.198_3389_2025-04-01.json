@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "SERVER"
+    ],
+    "product_version": [
+      "6.3.9600"
+    ],
+    "system_time": [
+      "2025-03-31T21:59:45Z"
+    ],
+    "target_name": [
+      "ELMES"
+    ],
+    "netbios_domain_name": [
+      "ELMES"
+    ],
+    "dns_computer_name": [
+      "server.elmes.local"
+    ],
+    "dns_domain_name": [
+      "elmes.local"
+    ],
+    "dns_tree_name": [
+      "elmes.local"
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743458784.png"
+    ]
+  },
+  "ip_port": "81.17.88.198:3389"
+}

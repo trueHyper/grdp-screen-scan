@@ -1,0 +1,32 @@
+{
+  "ntlm_info": {
+    "netbios_computer_name": [
+      "WIN-JMHFDUGRM5N"
+    ],
+    "product_version": [
+      "10.0.17763"
+    ],
+    "system_time": [
+      "2025-03-31T21:54:38Z"
+    ],
+    "target_name": [
+      "WIN-JMHFDUGRM5N"
+    ],
+    "netbios_domain_name": [
+      "WIN-JMHFDUGRM5N"
+    ],
+    "dns_computer_name": [
+      "WIN-JMHFDUGRM5N"
+    ],
+    "dns_domain_name": [
+      "WIN-JMHFDUGRM5N"
+    ],
+    "dns_tree_name": [
+      ""
+    ],
+    "screenshot_name": [
+      "screenshots\\rdp_screenshot_1743458233.png"
+    ]
+  },
+  "ip_port": "185.55.242.73:3389"
+}
